@@ -17,6 +17,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Backup Files
+*.bak
+
+# Ignore all files in the Maven target directory
+target
+
+# Ignore all files in the bin folder
+bin
+
 # =========================
 # Operating System Files
 # =========================
